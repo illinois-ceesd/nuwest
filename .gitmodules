@@ -1,0 +1,3 @@
+[submodule "mirge/demos/ipython-demo-tools"]
+	path = mirge/demos/ipython-demo-tools
+	url = https://github.com/inducer/ipython-demo-tools.git

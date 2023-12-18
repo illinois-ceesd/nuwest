@@ -2,6 +2,8 @@
 NNSA-University Workshop on Exascale Simulation Technologies (NUWEST)
 
 ## Docker images
+The NCSA Parsl and Mirge workshops will be hosted by online Jupyter notebooks. The Docker image can be used to create a suitable environment to run these codes, is intended for testing, and will not be needed for the workshops themselves.
+
 The [Dockerfile](https://https://docs.docker.com/engine/reference/builder/) can be used to build a [Docker](https://www.docker.com/) image containing the Merge and Parsl hands on tutorial code. The image contains all of the dependencies needed to run any of these codes. To build the Docker image:
 
 ```bash

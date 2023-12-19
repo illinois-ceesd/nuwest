@@ -15,10 +15,10 @@ html_start =\
 
     <title>Example</title>
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300&display=swap');
-    @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
     body {
-        font-family: 'Source Sans 3', serif;
+      font-family: 'Source Sans 3';
+      font-weight: 300;
     }
     </style>
   </head>
@@ -38,7 +38,7 @@ html_end =\
 
 class MyRenderer(HTMLRenderer):
     def table(self, text):
-        return '<table class="table">' + text + '</table>\n'
+        return '<table class="table table-sm">' + text + '</table>\n'
 
 markdown = mistune.create_markdown(renderer=MyRenderer(escape=False),
                                    plugins=['table'])

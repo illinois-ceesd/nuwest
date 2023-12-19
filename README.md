@@ -29,14 +29,14 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 | Time |  Title/Speaker | Room | Links |
 | ---- | -------------- | ---- | ----- |
 | 0800 – 815 | **Introduction** <br/> Luke Olson, University of Illinois Urbana-Champaign | Ballroom | [nuwest.pdf](./extra/nuwest.pdf) |
-| 0815 – 0930 | **Keynotes** | | |
-|             | Success through Community Building – A Kokkos Story<br/> Christian Trott, Sandia National Laboratories | Ballroom | |
-|             | Bill Gropp University of Illinois Urbana-Champaign | Ballroom | |
+| 0815 – 0930 | **Keynotes** | Ballroom | |
+|             | Success through Community Building – A Kokkos Story<br/> Christian Trott, Sandia National Laboratories | | |
+|             | Bill Gropp University of Illinois Urbana-Champaign | | |
 | 0900 – 1000 | **Conceptual Overviews** | Ballroom | |
-|             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Ballroom | |
-|             | Parsl - Python based workflow management<br/> Doug Friedel, Dan Katz, University of Illinois Urbana-Champaign | Ballroom | |
-|             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Ballroom | |
-|             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | Ballroom | |
+|             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | | |
+|             | Parsl - Python based workflow management<br/> Doug Friedel, Dan Katz, University of Illinois Urbana-Champaign | | |
+|             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | | |
+|             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | | |
 | 1000 - 1200 | **Code-alongs** | | |
 |             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Nevada | |
 |             | Parsl - Python based workflow management<br/> Doug Friedel, Dan Katz, University of Illinois Urbana-Champaign | Garden | |
@@ -44,10 +44,10 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | Arizona North | |
 | 1200 - 1300 | **Lunch break** | Ballroom | |
 | 1300 – 1400 | **Conceptual Overviews** | Ballroom | |
-|             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | Ballroom | |
-|             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Ballroom | |
-|             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | Ballroom | |
-|             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | Ballroom | |
+|             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | | |
+|             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | |
+|             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | |
+|             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | |
 | 1400 - 1600 | **Code-alongs** | | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | Nevada | |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Garden | |

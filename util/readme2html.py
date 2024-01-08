@@ -56,16 +56,13 @@ class MyRenderer(HTMLRenderer):
         if 'abstract:' in text:
             text, abstracttext = text.split('abstract:')
             abstract = f"""\
-                       <p>
-                         <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-                           [abstract]
-                         </a>
-                       </p>
-                       <div class="collapse" id="collapseExample">
-                          <div class="card card-body">
-                           {abstracttext}
-                          </div>
-                       </div>
+                       <details><summary style="display: block;">[abstract]</summary>
+                        <div class="card card-body">
+                         <p>
+                         {abstracttext}
+                         </p>
+                        </div>
+                        </details>
                        """
         return html + '>' + text + abstract + '</' + tag + '>\n'
 

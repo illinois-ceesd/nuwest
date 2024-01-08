@@ -56,7 +56,7 @@ class MyRenderer(HTMLRenderer):
         if 'abstract:' in text:
             text, abstracttext = text.split('abstract:')
             abstract = f"""\
-                       <details><summary style="display: block;">[abstract]</summary>
+                       <details><summary class="text-primary" style="display: block;">[abstract]</summary>
                         <div class="card card-body">
                          <p>
                          {abstracttext}

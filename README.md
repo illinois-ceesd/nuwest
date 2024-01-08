@@ -54,8 +54,7 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | Arizona South | |
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | Arizona North | |
 | 1600 - 1615 | **Concluding remarks**<br/> Luke Olson, University of Illinois Urbana-Champaingn | Ballroom | |
-| 1615-1800   | (dinner, on your own) | | |
-| 1800-1900   | (informal social @ TBD) | | |
+| 1700-1900   | (optional) social at Bow and Arrow<br/>Food truck on site; food and drinks are on your own.| | |
 
 #### Related technologies and tools:
 

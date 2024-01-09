@@ -22,7 +22,7 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 
 - Schedule: <https://illinois-ceesd.github.io/nuwest>
 - NUWEST git repository: <https://github.com/illinois-ceesd/nuwest>
-- Slack: TBD 
+- Slack: <https://nuwest24.slack.com>
 
 ## Schedule
 

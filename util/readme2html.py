@@ -53,8 +53,8 @@ class MyRenderer(HTMLRenderer):
             html += ' style="text-align:' + align + '"'
 
         abstract = ''
-        if 'abstract:' in text:
-            text, abstracttext = text.split('abstract:')
+        if 'Abstract:' in text:
+            text, abstracttext = text.split('Abstract:')
             abstract = f"""\
                        <details><summary class="text-primary" style="display: block;">[abstract]</summary>
                         <div class="card card-body">

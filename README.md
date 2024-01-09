@@ -29,7 +29,7 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 | Time |  Title/Speaker | Room | Links |
 | ---- | -------------- | ---- | ----- |
 | 0800 – 815 | **Introduction** <br/> Luke Olson, University of Illinois Urbana-Champaign | Ballroom | [nuwest.pdf](./extra/nuwest.pdf) |
-| 0815 – 0930 | **Keynotes** | Ballroom | |
+| 0815 – 0900 | **Keynotes** | Ballroom | |
 |             | Success through Community Building – A Kokkos Story<br/> Christian Trott, Sandia National Laboratories | | |
 |             | Getting to adoption: Lessons from MPI and PETSc<br/>Bill Gropp University of Illinois Urbana-Champaign<br/>abstract: Many software projects measure their success by the number of users that adopt that software for their work. Few succeed in getting significant adoption. What do these two successful projects tell us about getting an HPC tool to adoption by the community? This talk will review the history of two different projects: PETSc, a software library designed to support the development of applications to solve PDEs in parallel, and MPI, a specification (not a library) for communicating between processes. The importance of both the design and implementation of the projects as well as the marketing and support are discusses, and lessons for other HPC projects are discussed.| | |
 | 0900 – 1000 | **Conceptual Overviews** | Ballroom | |

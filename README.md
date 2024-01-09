@@ -39,7 +39,7 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | | |
 | 1000 - 1200 | **Code-alongs** | | |
 |             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Nevada | |
-|             | Parsl - Python based workflow management<br/> Doug Friedel, Dan Katz, University of Illinois Urbana-Champaign | Garden | |
+|             | Parsl - Python based workflow management<br/> Doug Friedel, Dan Katz, University of Illinois Urbana-Champaign | Garden | [github.com/astro-friedel/Parsl_tutorial](https://github.com/astro-friedel/Parsl_tutorial) |
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Arizona South | |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | Arizona North | |
 | 1200 - 1300 | **Lunch break** | Ballroom | |
@@ -50,7 +50,7 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | |
 | 1400 - 1600 | **Code-alongs** | | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | Nevada | |
-|             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Garden | |
+|             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Garden | [github.com/illinois-ceesd/nuwest-mirge](https://github.com/illinois-ceesd/nuwest-mirge) |
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | Arizona South | |
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | Arizona North | |
 | 1600 - 1615 | **Concluding remarks**<br/> Luke Olson, University of Illinois Urbana-Champaingn | Ballroom | |

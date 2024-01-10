@@ -15,8 +15,9 @@ used in and employed across the centers in their predictive simulations, with a
 goal of encouraging wider adoption of the key concepts in the technology itself
 or direct use of the underlying software.
 
-If you have questions or if you are interested in registering to attend, please contact
-Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `illinois.edu`).
+Lunch is provided, along with a breakfast and coffee throughout the day. If you
+have questions, then please contact Luke Olson (`lukeo` at `illinois.edu`) or
+Courtney McLearnin (`cmcleari` at `illinois.edu`).
 
 #### Quicklinks:
 

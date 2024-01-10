@@ -28,26 +28,29 @@ Luke Olson (`lukeo` at `illinois.edu`) or Courtney McLearnin (`cmcleari` at `ill
 
 | Time |  Title/Speaker | Room | Links |
 | ---- | -------------- | ---- | ----- |
-| 0800 – 815 | **Introduction** <br/> Luke Olson, University of Illinois Urbana-Champaign | Ballroom | [nuwest.pdf](./extra/nuwest.pdf) |
+| 0730 - 0800 | Breakfast | Ballroom | |
+| 0800 – 0815 | **Introduction** <br/> Luke Olson, University of Illinois Urbana-Champaign | Ballroom | [nuwest.pdf](./extra/nuwest.pdf) |
 | 0815 – 0900 | **Keynotes** | Ballroom | |
 |             | Success through Community Building – A Kokkos Story<br/> Christian Trott, Sandia National Laboratories<br/>Abstract: What makes a successful Open Source project – and what does it take to achieve wide spread adoption? This talk will explore these questions based on the experience with Kokkos. Now with users at more than 150 institutions, Kokkos represents one of the success stories of DOE’s recently concluded Exascale Computing Project. But technical excellence alone wasn’t enough – a critical aspect of Kokkos adoption progress was the proactive effort of the Kokkos team to widen the contributor base, build a user community, and develop trust. The talk will give an overview of the community efforts Kokkos has undertaken and how trust was build, as well as provide a view into the future of Kokkos as part of the High Performance Software Foundation. | | |
 |             | Getting to adoption: Lessons from MPI and PETSc<br/>Bill Gropp, University of Illinois Urbana-Champaign<br/>Abstract: Many software projects measure their success by the number of users that adopt that software for their work. Few succeed in getting significant adoption. What do these two successful projects tell us about getting an HPC tool to adoption by the community? This talk will review the history of two different projects: PETSc, a software library designed to support the development of applications to solve PDEs in parallel, and MPI, a specification (not a library) for communicating between processes. The importance of both the design and implementation of the projects as well as the marketing and support are discusses, and lessons for other HPC projects are discussed.| | |
-| 0900 – 1000 | **Conceptual Overviews** | Ballroom | |
+| 0900 – 0950 | **Conceptual Overviews** | Ballroom | |
 |             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | | |
 |             | Parsl - Python based workflow management<br/> Daniel S. Katz, Doug Friedel, University of Illinois Urbana-Champaign | | [slides](https://docs.google.com/presentation/d/1COX7K4QFI0SRhZpCSjHrNke3UfEd6qY9/edit?usp=sharing&ouid=110386689225117375572&rtpof=true&sd=true) |
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | | |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | | |
+| 0950 - 1000 | Break | | |
 | 1000 - 1200 | **Code-alongs** | | |
 |             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Nevada | |
 |             | Parsl - Python based workflow management<br/> Doug Friedel, Daniel S. Katz, University of Illinois Urbana-Champaign | Garden | [github.com/astro-friedel/Parsl_tutorial](https://github.com/astro-friedel/Parsl_tutorial) |
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Arizona South | |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | Arizona North | |
 | 1200 - 1300 | **Lunch break** | Ballroom | |
-| 1300 – 1400 | **Conceptual Overviews** | Ballroom | |
+| 1300 – 1350 | **Conceptual Overviews** | Ballroom | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | | |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | |
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | |
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | |
+| 1350 - 1400 | Break | | |
 | 1400 - 1600 | **Code-alongs** | | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | Nevada | |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Garden | [github.com/illinois-ceesd/nuwest-mirge](https://github.com/illinois-ceesd/nuwest-mirge) |

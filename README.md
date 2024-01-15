@@ -17,7 +17,7 @@ or direct use of the underlying software.
 
 Lunch is provided, along with a breakfast and coffee throughout the day. If you
 have questions, then please contact Luke Olson (`lukeo` at `illinois.edu`) or
-Courtney McLearnin (`cmcleari` at `illinois.edu`).
+Courtney McLearin (`cmcleari` at `illinois.edu`).
 
 #### Quicklinks:
 

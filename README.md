@@ -30,7 +30,7 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 
 | Time |  Title/Speaker | Room | Links |
 | ---- | -------------- | ---- | ----- |
-| 0730 - 0800 | **Breakfast** | Ballroom | |
+| 0700 - 0800 | **Breakfast** | Ballroom | |
 | 0800 – 0815 | **Introduction** <br/> Luke Olson, University of Illinois Urbana-Champaign | Ballroom | [nuwest.pdf](./extra/nuwest.pdf) |
 | 0815 – 0900 | **Keynotes** | Ballroom | |
 |             | Success through Community Building – A Kokkos Story<br/> Christian Trott, Sandia National Laboratories<br/>Abstract: What makes a successful Open Source project – and what does it take to achieve wide spread adoption? This talk will explore these questions based on the experience with Kokkos. Now with users at more than 150 institutions, Kokkos represents one of the success stories of DOE’s recently concluded Exascale Computing Project. But technical excellence alone wasn’t enough – a critical aspect of Kokkos adoption progress was the proactive effort of the Kokkos team to widen the contributor base, build a user community, and develop trust. The talk will give an overview of the community efforts Kokkos has undertaken and how trust was build, as well as provide a view into the future of Kokkos as part of the High Performance Software Foundation. | | |

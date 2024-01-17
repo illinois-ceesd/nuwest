@@ -49,7 +49,7 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 | 1200 - 1300 | **Lunch break** | Ballroom | |
 | 1300 – 1350 | **Conceptual Overviews** | Ballroom | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | | |
-|             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | |
+|             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | [overview (pdf)](https://ssl.tiker.net/nextcloud/s/TJrMAcGZpW5spjT)|
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | |
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | [overview (pptx)](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan/blob/main/NUWEST_jpmorgan_cement_mcdc.pptx) |
 | 1350 - 1400 | **Break** | | |

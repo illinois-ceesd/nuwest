@@ -1,0 +1,180 @@
+\documentclass[aspectratio=169]{beamer}
+
+\usepackage{xcolor}
+\usepackage{bm,bbm}% bold math
+\usepackage{lmodern}
+\usepackage{setspace}
+\usepackage[normalem]{ulem}
+\usepackage{fontawesome}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage{fancyvrb}
+\usepackage{siunitx}
+\sisetup{detect-display-math=true,detect-weight=true,detect-family=true}
+\usepackage{tcolorbox}
+\usepackage{graphicx}
+
+\definecolor{IllinoisOrange}{RGB}{232,74,39}  %%% ILLINOIS ORANGE
+\definecolor{IllinoisBlue}{RGB}{19,41,75}   %%% ILLINOIS BLUE
+
+\setbeamercolor{structure}{fg=IllinoisOrange}
+\setbeamercolor{normal text}{fg=IllinoisBlue}
+\usetheme{default}
+
+% Modify the footline to only have the page numbering in the center, nothing else
+\makeatletter
+\setbeamertemplate{footline}
+{
+ \leavevmode%
+ \hbox{\begin{beamercolorbox}[wd=\paperwidth,ht=2.25ex,dp=1ex]{}%
+     \usebeamerfont{author in head/foot}%
+     \hspace*{0.02in}
+     \raisebox{-0.0in}{\includegraphics[height=0.21in]{./media/UILogoBlockI.pdf}}%
+     \hfill\hspace*{0.8in}\insertframenumber{}
+     \hfill\raisebox{-0.07in}{\includegraphics[height=0.3in]{./media/ceesd-logo-2.pdf}}%
+ \end{beamercolorbox}}
+ \vskip0pt%
+}
+
+\setbeamertemplate{headline}{} % Modify the headline to be null
+\setbeamercolor{frametitle}{bg=} % Set frame title to be transparent with black text
+\setbeamercolor{frametitle}{fg=IllinoisOrange}
+
+% Set frame title to properly center the text
+\setbeamertemplate{frametitle}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=0ex]{frametitle}%
+    \raggedright
+    \bfseries
+    \hspace*{0.3em}%
+    \usebeamerfont{frametitle}\insertframetitle
+  \end{beamercolorbox}}
+  \vspace*{-2.75ex}
+}
+
+\makeatother
+
+\setbeamersize{text margin left=0.15in,text margin right=0.15in}
+
+\setbeamertemplate{navigation symbols}{} % turn off navigation line (uncomment to reinstate)
+\setbeamertemplate{enumerate items}[default] % turn off the balls for enumerate
+\setbeamertemplate{itemize subitem}{$\bullet$}
+\setbeamertemplate{itemize subsubitem}{$*$}
+
+\usefonttheme[onlymath]{serif}
+
+\let\b=\boldsymbol
+\setbeamercolor{alerted text}{fg=IllinoisOrange}
+
+\begin{document}
+
+\begin{frame}\frametitle{}
+
+\vspace*{0.2in}
+
+\hspace*{0.0in}\textrm{{\huge\bfseries\color{IllinoisOrange} NUWEST: NNSA-University Workshop on Exascale Simulation Technologies}}
+
+\vspace*{0.2in}
+\hrule
+\begin{center}
+\includegraphics[width=0.75\textwidth]{./media/coverart-cs.pdf}
+\end{center}
+\hrule
+
+\vspace*{0.1in}
+\noindent\textit{January 18, 2024}\\
+\vspace*{0.1in}
+\noindent\textbf{\color{IllinoisOrange}Luke Olson}\\
+\noindent{\color{IllinoisOrange}University of Illinois Urbana-Champaign}\\
+
+\end{frame}
+
+\begin{frame}{NUWEST's Goal}
+\begin{center}
+\begin{tcolorbox}[colframe=IllinoisOrange]
+To share ideas on tools for facilitating exascale predictive science
+\end{tcolorbox}
+\end{center}
+\begin{itemize}
+\item Showcase and characterize available technologies
+\item Identify challenges and limitations
+\item Provide opportunities to initiate collaboration
+\item Focus on \alert{hands-on experience}~---~technologies to look at in detail
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Schedule}
+\begin{tcolorbox}[colframe=IllinoisOrange]
+https://illinois-ceesd.github.io/nuwest/
+\end{tcolorbox}
+\begin{itemize}
+\item \alert{Keynote 1} [Christian Trott, Sandia]
+\item \alert{Keynote 2} [Bill Gropp, Illinois]
+\item \alert{Conceptual Overview} (4\texttimes{} 10--12 min, morning/afternoon) \alert{Ballroom}
+\item Small group interactions: \alert{hands-on} (2h window) \alert{In parallel}\\
+  \only<1>{
+    \medskip
+    \alert{Morning}:
+  \begin{itemize}
+    \item Scalable and portable HPC in Python using Parla and PyKokkos {\tiny\color{gray}George Biros, University of Texas at Austin}
+    \item Parsl - Python based workflow management {\tiny\color{gray}Daniel S. Katz, Doug Friedel, University of Illinois Urbana-Champaign}
+    \item Pragmatic performance-portable solids and fluids\\ with Ratel, libCEED, and PETSc {\tiny\color{gray}Jed Brown, University of Colorado Boulder}
+    \item CUnumeric and Legion {\tiny\color{gray}Charlelie Laurent, Stanford University}
+  \end{itemize}
+  }
+  \only<2>{
+    \medskip
+    \alert{Afternoon}:
+  \begin{itemize}
+\item OpenCilk: A Modular and Extensible Software Infrastructure\\ for Fast Task-Parallel Code {\tiny\color{gray} Tao Schardl, Massachusetts Institute of Technology }
+\item MIRGE -- A lazy evaluation framework in Python {\tiny\color{gray} Andreas Kloeckner, University of Illinois Urbana-Champaign }
+\item MPI Advance - Optimizations and Extensions to MPI {\tiny\color{gray} Purushotham V. Bangalore, University of Alabama }
+\item Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba {\tiny\color{gray} Joanna Piper Morgan, Oregon State University }
+  \end{itemize}
+  }
+\item View as 1 hour + 1 hour: feel free to try another session at the 1 hour mark!
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Logistics}
+\begin{itemize}
+\item \url{https://illinois-ceesd.github.io/nuwest}
+\item Contact Luke Olson (\texttt{lukeo@illinois.edu}) or\\
+  \hspace{1.25cm} Courtney McLearin (\texttt{cmcleari@illinois.edu}).
+\item See Slack for announcements
+\item {\color{IllinoisOrange} \texttt{0800-0900}} Keynotes
+\item {\color{IllinoisOrange} \texttt{0900-1200}} Morning session
+\item {\color{IllinoisOrange} \texttt{1200-1300}} Lunch
+\item {\color{IllinoisOrange} \texttt{1300-1600}} Afternoon session
+\item {\color{IllinoisOrange} \texttt{1600-1700}} Break, extra
+\item {\color{IllinoisOrange} \texttt{1700-1900}} Optional social
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Some questions to think about...}
+
+\begin{itemize}
+\item What ideas are working for actual simulations?
+\item Which pivots should be made?
+\item What are lab needs?
+\item What are barriers for adoption of hardware-flexible tools?
+\item How do tools work with end-to-end simulation workflows?
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{}
+\vspace*{0.2in}
+\begin{center}
+\vspace*{0.35in}
+
+\cPI{\huge Questions?}
+
+\vspace*{0.5in}
+This material is based in part upon work supported by the Department of Energy, National Nuclear Security Administration, under Award Number DE-NA0003963. 
+\end{center}
+\end{frame}
+
+\end{document}

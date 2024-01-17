@@ -42,7 +42,7 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | | [overview (pptx)](https://github.com/CharlelieLrt/Nuwest_cunumeric_demo/blob/main/slides/Legion_cunumeric_overview.pptx) |
 | 0950 - 1000 | **Break** | | |
 | 1000 - 1200 | **Code-alongs** | | |
-|             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Nevada | |
+|             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Nevada | [github.com/ut-parla/nuwest](https://github.com/ut-parla/nuwest)|
 |             | Parsl - Python based workflow management<br/> Doug Friedel, Daniel S. Katz, University of Illinois Urbana-Champaign | Garden | [github.com/astro-friedel/Parsl_tutorial](https://github.com/astro-friedel/Parsl_tutorial) |
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Arizona South | |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | Arizona North | [github.com/CharlelieLrt/Nuwest_cunumeric_demo](https://github.com/CharlelieLrt/Nuwest_cunumeric_demo)|

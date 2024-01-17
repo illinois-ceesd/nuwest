@@ -38,14 +38,14 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 | 0900 – 0950 | **Conceptual Overviews** | Garden | |
 |             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | | |
 |             | Parsl - Python based workflow management<br/> Daniel S. Katz, Doug Friedel, University of Illinois Urbana-Champaign | | [overview (google slide)](https://docs.google.com/presentation/d/1COX7K4QFI0SRhZpCSjHrNke3UfEd6qY9/edit?usp=sharing&ouid=110386689225117375572&rtpof=true&sd=true) |
-|             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | | |
+|             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | | [overview (pdf)](https://github.com/jedbrown/nuwest24/blob/main/20240118-libCEED.pdf) |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | | [overview (pptx)](https://github.com/CharlelieLrt/Nuwest_cunumeric_demo/blob/main/slides/Legion_cunumeric_overview.pptx) |
 | 0950 - 1000 | **Break** | | |
 | 1000 - 1200 | **Code-alongs** | | |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | Arizona | [github.com/CharlelieLrt/Nuwest_cunumeric_demo](https://github.com/CharlelieLrt/Nuwest_cunumeric_demo)|
 |             | Parsl - Python based workflow management<br/> Doug Friedel, Daniel S. Katz, University of Illinois Urbana-Champaign | Nevada | [github.com/astro-friedel/Parsl_tutorial](https://github.com/astro-friedel/Parsl_tutorial) |
 |             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | Texas | [github.com/ut-parla/nuwest](https://github.com/ut-parla/nuwest)|
-|             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Colorado | |
+|             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Colorado | [github.com/jedbrown/nuwest24](https://github.com/jedbrown/nuwest24) |
 | 1200 - 1300 | **Lunch break** | Garden | |
 | 1300 – 1350 | **Conceptual Overviews** | Garden | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | | |

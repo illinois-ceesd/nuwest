@@ -50,13 +50,13 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 | 1300 – 1350 | **Conceptual Overviews** | Ballroom | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | | |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | [overview (pdf)](https://ssl.tiker.net/nextcloud/s/TJrMAcGZpW5spjT)|
-|             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | |
+|             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | [overview (pdf)](./extra/mpi_advance.pdf)|
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | [overview (pptx)](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan/blob/main/NUWEST_jpmorgan_cement_mcdc.pptx) |
 | 1350 - 1400 | **Break** | | |
 | 1400 - 1600 | **Code-alongs** | | |
 |             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | Nevada | |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Garden | [github.com/illinois-ceesd/nuwest-mirge](https://github.com/illinois-ceesd/nuwest-mirge) |
-|             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | Arizona South | |
+|             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | Arizona South | [github.com/mpi-advance/MPIPCL](https://github.com/mpi-advance/MPIPCL)<br/> [github.com/mpi-advance/locality_aware](https://github.com/mpi-advance/locality_aware) |
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | Arizona North | [slides (html)](https://jpmorgan98.github.io/nuwest-mcdc-jpmorgan/nuwest_demo.slides.html#/)<br/>[notebook](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan/blob/main/numba_live_demo.ipynb)<br/>[github.com/jpmorgan98/nuwest-mcdc-jpmorgan](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan)<br/> |
 | 1600 - 1615 | **Concluding remarks**<br/> Luke Olson, University of Illinois Urbana-Champaingn | Ballroom | |
 | 1700-1900   | (optional) social at Bow and Arrow<br/>Food truck on site; food and drinks are on your own.| | |

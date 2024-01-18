@@ -48,13 +48,13 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Colorado | [github.com/jedbrown/nuwest24](https://github.com/jedbrown/nuwest24) |
 | 1200 - 1300 | **Lunch break** | Garden | |
 | 1300 – 1350 | **Conceptual Overviews** | Garden | |
-|             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | | |
+|             | Writing Fast Task-Parallel Code Using OpenCilk<br/> Tao Schardl, Massachusetts Institute of Technology | | |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | [overview (pdf)](https://ssl.tiker.net/nextcloud/s/TJrMAcGZpW5spjT)|
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | [overview (pdf)](./extra/mpi_advance.pdf)|
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | [overview (pptx)](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan/blob/main/NUWEST_jpmorgan_cement_mcdc.pptx) |
 | 1350 - 1400 | **Break** | | |
 | 1400 - 1600 | **Code-alongs** | | |
-|             | OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code<br/> Tao Schardl, Massachusetts Institute of Technology | Arizona | |
+|             | Writing Fast Task-Parallel Code Using OpenCilk<br/> Tao Schardl, Massachusetts Institute of Technology | Arizona | [speedcode.org](http://speedcode.org/)<br/>[github.com/OpenCilk/opencilk-project/releases](https://github.com/OpenCilk/opencilk-project/releases)<br/>[opencilk.org/doc/users-guide/install](https://www.opencilk.org/doc/users-guide/install/) |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | Nevada | [github.com/illinois-ceesd/nuwest-mirge](https://github.com/illinois-ceesd/nuwest-mirge) |
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | Texas | [github.com/mpi-advance/MPIPCL](https://github.com/mpi-advance/MPIPCL)<br/> [github.com/mpi-advance/locality_aware](https://github.com/mpi-advance/locality_aware) |
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | Colorado | [slides (html)](https://jpmorgan98.github.io/nuwest-mcdc-jpmorgan/nuwest_demo.slides.html#/)<br/>[notebook](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan/blob/main/numba_live_demo.ipynb)<br/>[github.com/jpmorgan98/nuwest-mcdc-jpmorgan](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan)<br/> |

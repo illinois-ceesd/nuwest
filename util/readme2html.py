@@ -68,7 +68,7 @@ class MyRenderer(HTMLRenderer):
 
 
 markdown = mistune.create_markdown(renderer=MyRenderer(escape=False),
-                                   plugins=['table'])
+                                   plugins=['table','strikethrough'])
 with open('README.md', 'r') as f:
     html = markdown(f.read())
 

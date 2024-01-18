@@ -38,7 +38,7 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 | 0900 – 0950 | **Conceptual Overviews** | Garden | |
 |             | CUnumeric and Legion<br/> Charlelie Laurent, Stanford University | | [overview (pptx)](https://github.com/CharlelieLrt/Nuwest_cunumeric_demo/blob/main/slides/Legion_cunumeric_overview.pptx) |
 |             | Parsl - Python based workflow management<br/> Daniel S. Katz, Doug Friedel, University of Illinois Urbana-Champaign | | [overview (google slide)](https://docs.google.com/presentation/d/1COX7K4QFI0SRhZpCSjHrNke3UfEd6qY9/edit?usp=sharing&ouid=110386689225117375572&rtpof=true&sd=true) |
-|             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | | |
+|             | Scalable and portable HPC in Python using Parla and PyKokkos<br/> George Biros, University of Texas at Austin | | [overview (pdf)](./extra/24nuwest-ut.pdf) |
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | | [overview (pdf)](https://github.com/jedbrown/nuwest24/blob/main/20240118-libCEED.pdf) |
 | 0950 - 1000 | **Break** | | |
 | 1000 - 1200 | **Code-alongs** | | |

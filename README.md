@@ -48,7 +48,7 @@ Courtney McLearin (`cmcleari` at `illinois.edu`).
 |             | Pragmatic performance-portable solids and fluids with Ratel, libCEED, and PETSc<br/> Jed Brown, University of Colorado Boulder | Colorado | [github.com/jedbrown/nuwest24](https://github.com/jedbrown/nuwest24) |
 | 1200 - 1300 | **Lunch break** | Garden | |
 | 1300 – 1350 | **Conceptual Overviews** | Garden | |
-|             | Writing Fast Task-Parallel Code Using OpenCilk<br/> Tao Schardl, Massachusetts Institute of Technology | | |
+|             | Writing Fast Task-Parallel Code Using OpenCilk<br/> Tao Schardl, Massachusetts Institute of Technology | | [overview (pdf)](./extra/opencilk_overview.pdf) |
 |             | MIRGE -- A lazy evaluation framework in Python<br/> Andreas Kloeckner, University of Illinois Urbana-Champaign | | [overview (pdf)](https://ssl.tiker.net/nextcloud/s/TJrMAcGZpW5spjT)|
 |             | MPI Advance - Optimizations and Extensions to MPI<br/> Purushotham V. Bangalore, University of Alabama | | [overview (pdf)](./extra/mpi_advance.pdf)|
 |             | Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba<br/> Joanna Piper Morgan, Oregon State University | | [overview (pptx)](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan/blob/main/NUWEST_jpmorgan_cement_mcdc.pptx) |
